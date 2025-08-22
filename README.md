@@ -1,4 +1,4 @@
-# TuteDude_Module_3
+# TuteDude_Assignment_2
 This repository contains two Python programs that demonstrate basic control structures.
 
 Task 1: Check if a Number is Even or Odd`  
